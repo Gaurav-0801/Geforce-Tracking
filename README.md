@@ -318,5 +318,4 @@ curl http://localhost:3000/api/vehicles/test-01/zone
 ## License
 
 MIT
-#   G e f o r c e - T r a c k i n g  
- 
+#
